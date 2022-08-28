@@ -1,0 +1,85 @@
+{G:/digital diploma/MIPS project/Instruction memory.v} {1 {vlog -work work {G:/digital diploma/MIPS project/Instruction memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Instruction_memory
+
+Top level modules:
+	Instruction_memory
+
+} {} {}} {G:/digital diploma/MIPS project/MIPS_tb.v} {1 {vlog -work work {G:/digital diploma/MIPS project/MIPS_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_tb
+
+Top level modules:
+	MIPS_tb
+
+} {} {}} {G:/digital diploma/MIPS project/MIPS.v} {1 {vlog -work work {G:/digital diploma/MIPS project/MIPS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} {G:/digital diploma/MIPS project/ALU.v} {1 {vlog -work work {G:/digital diploma/MIPS project/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {G:/digital diploma/MIPS project/Mux.v} {1 {vlog -work work {G:/digital diploma/MIPS project/Mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} {G:/digital diploma/MIPS project/Data Memory.v} {1 {vlog -work work {G:/digital diploma/MIPS project/Data Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} {G:/digital diploma/MIPS project/Main Decoder.v} {1 {vlog -work work {G:/digital diploma/MIPS project/Main Decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Main_Decoder
+
+Top level modules:
+	Main_Decoder
+
+} {} {}} {G:/digital diploma/MIPS project/Register File.v} {1 {vlog -work work {G:/digital diploma/MIPS project/Register File.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} {G:/digital diploma/MIPS project/Program Counter.v} {1 {vlog -work work {G:/digital diploma/MIPS project/Program Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Program_Counter
+
+Top level modules:
+	Program_Counter
+
+} {} {}} {G:/digital diploma/MIPS project/Adder.v} {1 {vlog -work work {G:/digital diploma/MIPS project/Adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {G:/digital diploma/MIPS project/shift left.v} {1 {vlog -work work {G:/digital diploma/MIPS project/shift left.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shift_left
+
+Top level modules:
+	shift_left
+
+} {} {}} {G:/digital diploma/MIPS project/sign extend.v} {1 {vlog -work work {G:/digital diploma/MIPS project/sign extend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}}

@@ -1,0 +1,263 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vAdder
+Z1 !s100 kYlDJb@VDZ9:QlcLdc^In1
+Z2 II[C:O]TTJW90M=zR[d<fo2
+Z3 Vn;;>PD@VIfYV=X][REIV50
+Z4 dG:\digital diploma\MIPS project
+Z5 w1660494091
+Z6 8G:/digital diploma/MIPS project/Adder.v
+Z7 FG:/digital diploma/MIPS project/Adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/Adder.v|
+Z10 o-work work -O0
+Z11 n@adder
+Z12 !s108 1660654981.015000
+Z13 !s107 G:/digital diploma/MIPS project/Adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 !s100 =Mz>4o>`21Y<k76NWlVzi1
+Z15 Ik6KX1aXY7N8HUELlH5^c>2
+Z16 VCJ^c3NJ88`Ud4^UY<lA;o3
+R4
+Z17 w1660493581
+Z18 8G:/digital diploma/MIPS project/ALU.v
+Z19 FG:/digital diploma/MIPS project/ALU.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/ALU.v|
+R10
+Z21 n@a@l@u
+Z22 !s108 1660654982.434000
+Z23 !s107 G:/digital diploma/MIPS project/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_Decoder
+Z24 !s100 ^;EcY6cz`J31>R:bjiUD00
+Z25 IV7;=5H0@:Z?gQC8O]Skz22
+Z26 Vg^SM7T=<mQfZCOIcck9XC3
+R4
+Z27 w1660330560
+Z28 8G:/digital diploma/MIPS project/ALU Decoder.v
+Z29 FG:/digital diploma/MIPS project/ALU Decoder.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/ALU Decoder.v|
+R10
+Z31 n@a@l@u_@decoder
+Z32 !s108 1660654981.526000
+Z33 !s107 G:/digital diploma/MIPS project/ALU Decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vData_Memory
+Z34 I06[?_JJQ5JTTWN<JL>T`20
+Z35 VSM19XR[5mG1K1``Qf4jcQ3
+R4
+Z36 w1660654885
+Z37 8G:/digital diploma/MIPS project/Data Memory.v
+Z38 FG:/digital diploma/MIPS project/Data Memory.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/Data Memory.v|
+R10
+Z40 n@data_@memory
+Z41 !s100 ^gJfmj`@Ifk[YENMnL_T61
+Z42 !s108 1660654983.064000
+Z43 !s107 G:/digital diploma/MIPS project/Data Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vInstruction_memory
+Z44 !s100 CJbUPAb]e3XaE_@b8X36f3
+Z45 I1hiW[7YNXO[HG[Bc9lfHi3
+Z46 VIYi@5L6dFhagm^:F<JLJ>2
+R4
+Z47 w1660508048
+Z48 8G:/digital diploma/MIPS project/Instruction memory.v
+Z49 FG:/digital diploma/MIPS project/Instruction memory.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/Instruction memory.v|
+R10
+Z51 n@instruction_memory
+Z52 !s108 1660654983.734000
+Z53 !s107 G:/digital diploma/MIPS project/Instruction memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMain_Decoder
+Z54 !s100 ECF5Nc^fdizhXNiN9>TRN0
+Z55 IL0SzM5n0T=H46SGl[C@NJ2
+Z56 VERgXA_bIz<CFi^zg4RY<n2
+R4
+Z57 w1659731607
+Z58 8G:/digital diploma/MIPS project/Main Decoder.v
+Z59 FG:/digital diploma/MIPS project/Main Decoder.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/Main Decoder.v|
+R10
+Z61 n@main_@decoder
+Z62 !s108 1660654984.383000
+Z63 !s107 G:/digital diploma/MIPS project/Main Decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS
+Z64 !s100 9BXzToTz8DQiklzUFMO@^0
+Z65 ISl7m3:>BzXh6mLe8;`Z=n1
+Z66 VYb2E>gkU@[YRI`H@25J_c3
+R4
+Z67 w1660505630
+Z68 8G:/digital diploma/MIPS project/MIPS.v
+Z69 FG:/digital diploma/MIPS project/MIPS.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/MIPS.v|
+R10
+Z71 n@m@i@p@s
+Z72 !s108 1660654984.724000
+Z73 !s107 G:/digital diploma/MIPS project/MIPS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS_tb
+Z74 !s100 :>U7zEj;GjL1c?HQiHdD`3
+Z75 IToFK9f:jXT@@`2``VjSYN1
+Z76 VO]iS4[R`21Ta`:D9kWDfJ3
+R4
+Z77 w1660507613
+Z78 8G:/digital diploma/MIPS project/MIPS_tb.v
+Z79 FG:/digital diploma/MIPS project/MIPS_tb.v
+L0 2
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/MIPS_tb.v|
+R10
+Z81 n@m@i@p@s_tb
+!i10b 1
+!s85 0
+Z82 !s108 1660654987.440000
+Z83 !s107 G:/digital diploma/MIPS project/MIPS_tb.v|
+!s101 -O0
+vMux
+Z84 !s100 zO>]X_:lNY7<JH;hXmPHK3
+Z85 IlAJdRVh<9[FHOhNj41dmd1
+Z86 VTY[zAG?]9eOodo2WBHkP`1
+R4
+Z87 w1660397039
+Z88 8G:/digital diploma/MIPS project/Mux.v
+Z89 FG:/digital diploma/MIPS project/Mux.v
+L0 1
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/Mux.v|
+R10
+n@mux
+Z91 !s108 1660654985.304000
+Z92 !s107 G:/digital diploma/MIPS project/Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Counter
+Z93 !s100 QK2GjQ3aUbW=hZ3KPPHTT2
+Z94 I;XG05z4?ab:YchYL7kdF60
+Z95 V3`ioUNB?Yj5:i@zIgefBW0
+R4
+Z96 w1660654648
+Z97 8G:/digital diploma/MIPS project/Program Counter.v
+Z98 FG:/digital diploma/MIPS project/Program Counter.v
+L0 1
+R8
+r1
+31
+Z99 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/Program Counter.v|
+R10
+Z100 n@program_@counter
+Z101 !s108 1660654985.882000
+Z102 !s107 G:/digital diploma/MIPS project/Program Counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_File
+!i10b 1
+!s100 OC5Z5zoz;zXe3`4?RB[ST1
+I;THFklFSiYJ8ggf@30MY<3
+Z103 VQUMbDgDhVQ74<3Om0h8QN2
+R4
+w1660655020
+Z104 8G:/digital diploma/MIPS project/Register File.v
+Z105 FG:/digital diploma/MIPS project/Register File.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1660655021.128000
+!s107 G:/digital diploma/MIPS project/Register File.v|
+Z106 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/Register File.v|
+!s101 -O0
+R10
+Z107 n@register_@file
+vshift_left
+Z108 !s100 3[?oL7^OY6V]HRB1P<Q=b2
+Z109 I0Qo>6mkBgLODO`9XU@iV_1
+Z110 V?eQJlf5l@T[o5iL<CDhI?0
+R4
+Z111 w1660493906
+Z112 8G:/digital diploma/MIPS project/shift left.v
+Z113 FG:/digital diploma/MIPS project/shift left.v
+L0 1
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/shift left.v|
+R10
+Z115 !s108 1660654986.572000
+Z116 !s107 G:/digital diploma/MIPS project/shift left.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsign_extend
+Z117 !s100 j[^S^g@FfP10bTJ1SW;hI0
+Z118 Ig2a337VDMQSf=_Qbk^:<Q1
+Z119 Vl@H`Z2:1TQH;OV`>Ufc<R1
+R4
+Z120 w1660398338
+Z121 8G:/digital diploma/MIPS project/sign extend.v
+Z122 FG:/digital diploma/MIPS project/sign extend.v
+L0 1
+R8
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|G:/digital diploma/MIPS project/sign extend.v|
+R10
+Z124 !s108 1660654987.110000
+Z125 !s107 G:/digital diploma/MIPS project/sign extend.v|
+!i10b 1
+!s85 0
+!s101 -O0

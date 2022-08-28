@@ -1,0 +1,80 @@
+# vsim work.MIPS_tb 
+# Loading work.MIPS_tb
+# Loading work.MIPS
+# Loading work.Instruction_memory
+# Loading work.Register_File
+# Loading work.Main_Decoder
+# Loading work.ALU_Decoder
+# Loading work.sign_extend
+# Loading work.shift_left
+# Loading work.Adder
+# Loading work.Mux
+# Loading work.Program_Counter
+# Loading work.ALU
+# Loading work.Data_Memory
+# ** Warning: (vsim-3015) G:/digital diploma/MIPS project/MIPS.v(85): [PCDPC] - Port size (26 or 26) does not match connection size (28) for port 'out'. The port definition is at: G:/digital diploma/MIPS project/shift left.v(4).
+# 
+#         Region: /MIPS_tb/DUT/SL2
+add wave -position insertpoint sim:/MIPS_tb/*
+run
+# test value is
+run
+run
+#     0
+run
+run
+run
+quit -sim
+project open {G:/digital diploma/MIPS project/MIPS}
+# Loading project MIPS
+# Compile of Adder.v was successful.
+# Compile of ALU Decoder.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Data Memory.v was successful.
+# Compile of Instruction memory.v was successful.
+# Compile of Main Decoder.v was successful.
+# Compile of MIPS.v was successful.
+# Compile of Mux.v was successful.
+# Compile of Program Counter.v was successful.
+# Compile of Register File.v was successful.
+# Compile of shift left.v was successful.
+# Compile of sign extend.v was successful.
+# Compile of MIPS_tb.v was successful.
+# 13 compiles, 0 failed with no errors. 
+vsim work.MIPS_tb
+# vsim work.MIPS_tb 
+# Loading work.MIPS_tb
+# Loading work.MIPS
+# Loading work.Instruction_memory
+# Loading work.Register_File
+# Loading work.Main_Decoder
+# Loading work.ALU_Decoder
+# Loading work.sign_extend
+# Loading work.shift_left
+# Loading work.Adder
+# Loading work.Mux
+# Loading work.Program_Counter
+# Loading work.ALU
+# Loading work.Data_Memory
+# ** Warning: (vsim-3015) G:/digital diploma/MIPS project/MIPS.v(85): [PCDPC] - Port size (26 or 26) does not match connection size (28) for port 'out'. The port definition is at: G:/digital diploma/MIPS project/shift left.v(4).
+# 
+#         Region: /MIPS_tb/DUT/SL2
+add wave -position insertpoint  \
+sim:/MIPS_tb/rst_tb \
+sim:/MIPS_tb/clk_tb \
+sim:/MIPS_tb/test_value_tb
+run
+# test value is
+run
+run
+#     0
+add wave -position insertpoint  \
+sim:/MIPS_tb/DUT/PC_D/PC
+restart -f
+# Closing VCD file "factorial.vcd"
+# ** Warning: (vsim-3015) G:/digital diploma/MIPS project/MIPS.v(85): [PCDPC] - Port size (26 or 26) does not match connection size (28) for port 'out'. The port definition is at: G:/digital diploma/MIPS project/shift left.v(4).
+# 
+#         Region: /MIPS_tb/DUT/SL2
+run
+# test value is
+run
